@@ -2,7 +2,6 @@
 title: "Welcome to My Mini-SIEM"
 date: 2025-04-18 10:00:00 +0700
 categories: [project]
-tags: [SIEM, security, logging]
 layout: post
 ---
 
