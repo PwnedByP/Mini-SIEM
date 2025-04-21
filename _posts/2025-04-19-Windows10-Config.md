@@ -36,3 +36,5 @@ We will then login with other user and will introduce john's user:
 We can now see that we are logged in as jsmith and we are part of the domain:
 
 ![John](/assets/images/john.JPG)
+
+That's all the initial configuration needed for our Windows client.
