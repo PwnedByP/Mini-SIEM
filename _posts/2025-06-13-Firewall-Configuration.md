@@ -33,7 +33,7 @@ For the LAN we will set it up as 192.168.10.1, without DHCP.
 
 And for the DMZ we will set it up as 192.168.20.1.
 
-![DMZ IP](/assets/images/DMZ-IP.PNG)
+![DMZ IP](/assets/images/DMZ%20IP.PNG)
 
 We can now see how all the IP's are set up correctly:
 
