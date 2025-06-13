@@ -13,11 +13,11 @@ https://documentation.wazuh.com/current/installation-guide/wazuh-server/installa
 
 It's pretty straightforward, just download the installation script:
 
-curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh
+```curl -sO https://packages.wazuh.com/4.11/wazuh-install.sh```
 
 And then install it:
 
-sudo bash wazuh-install.sh -a
+```sudo bash wazuh-install.sh -a```
 
 The -a flag is used to install all of its components (manager, indexer and dashboard)
 
