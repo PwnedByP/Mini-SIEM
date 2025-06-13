@@ -1,0 +1,24 @@
+---
+title: "Web Server Configuration"
+date: 2025-04-20 09:00:00 +0700
+categories: [Project Set Up]
+layout: post
+---
+
+Now it's time to set up our web server.
+
+For this we will download an Ubuntu Server and set it up in a different subnet, an we will install the famous Juice Shop from OWASP in it which is a website with many known vulnerabilities in it so we can further practice our attacks and defenses.
+
+I'll not cover here how to install the Ubuntu Server, once we have it in a VM we will the proceed to install what we need for the website.
+
+First we will head to the documentation:
+
+[Juice Shop]https://github.com/juice-shop/juice-shop
+
+Here we can find that we need to install node.js first, to install it we will use apt:
+
+![Node.js](/assets/images/nodejs.PNG)
+
+If we want to make sure it's installed we can use:
+
+```node-v```
