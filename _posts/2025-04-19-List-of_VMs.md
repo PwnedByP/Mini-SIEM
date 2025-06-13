@@ -17,7 +17,7 @@ We want to simulate a company with a server (WS2019) and a user (W10), our SIEM 
 
 It might be useful to add an extra machine with pfSense for a firewall but I will keep it simple first and do it without it.
 
-# UPDATES
+## UPDATES
 
 I've changed the W10 machine for a W11 machine as W10 support life is ending soon.
 
