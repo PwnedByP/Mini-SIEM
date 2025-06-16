@@ -1,5 +1,5 @@
 ---
-title: "Network and firewall Configuration"
+title: "Network and Firewall Configuration"
 date: 2025-06-13 09:00:00 +0700
 categories: [Project Set Up]
 layout: post
@@ -101,3 +101,10 @@ After that we can proceed to try and access the machine from our real machine an
 ![Website W10](/assets/images/juiceshop_W10.PNG)
 
 After that we are all set up, our firewall is blocking all traffic to from the outside except the traffic to the website.
+
+
+##UPDATES
+
+Later on the configuration of the webserver I realised that the webserver didn't have internet access, so I had to add one rule into the OPT1 allowing traffic:
+
+![OPT Rule](/assets/images/opt1-rule.PNG)
