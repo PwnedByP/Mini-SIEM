@@ -1,5 +1,6 @@
 ---
 title: "Wazuh Server Installation and Configuration"
+subtitle: "Didn't end up using Wazuh but here you have a manual to install it"
 date: 2025-04-20 09:00:00 +0700
 categories: [Project Set Up]
 layout: post

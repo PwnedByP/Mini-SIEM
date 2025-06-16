@@ -1,5 +1,6 @@
 ---
 title: "Windows 10 Pro VM"
+subtitle: "Windows 10 Installation"
 date: 2025-04-19 09:00:00 +0700
 categories: [Project Set Up]
 layout: post

@@ -1,5 +1,6 @@
 ---
 title: "Web Server Configuration"
+subtitle: "Manual on how to install the vulnerable web site in our Web Server"
 date: 2025-04-20 09:00:00 +0700
 categories: [Project Set Up]
 layout: post

@@ -1,5 +1,6 @@
 ---
 title: "Installing Windows Server 2019 in VMWare"
+subtitle: "Installation manual of the WS2019 VM"
 date: 2025-04-18 12:00:00 +0700
 categories: [Project Set Up]
 layout: post
