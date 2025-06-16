@@ -1,6 +1,6 @@
 ---
-title: "List of VMs used in the lab"
-subtitle: "You can see the list of the VM's used in this home lab"
+title: List of VMs used in the lab
+description: You can see the list of the VM's used in this home lab
 date: 2025-04-19 10:00:00 +0700
 categories: [Project Set Up]
 layout: post

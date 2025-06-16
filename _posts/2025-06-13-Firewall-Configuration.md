@@ -1,6 +1,6 @@
 ---
-title: "Network and Firewall Configuration"
-subtitle: "Network esquema with Packet Tracer and pfSense firewall configuration"
+title: Network and Firewall Configuration
+description: "Network esquema with Packet Tracer and pfSense firewall configuration"
 date: 2025-06-13 09:00:00 +0700
 categories: [Project Set Up]
 layout: post

@@ -1,6 +1,6 @@
 ---
-title: "Windows 10 Configuration"
-subtitle: "Basic configuration of the W10 machine"
+title: Windows 10 Configuration
+description: Basic configuration of the W10 machine
 date: 2025-04-19 17:00:00 +0700
 categories: [Project Set Up]
 layout: post
